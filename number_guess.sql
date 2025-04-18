@@ -153,14 +153,14 @@ INSERT INTO public.users VALUES (2, 'Kyler');
 -- Name: games_game_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.games_game_id_seq', 416, true);
+SELECT pg_catalog.setval('public.games_game_id_seq', 8, true);
 
 
 --
 -- Name: users_user_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.users_user_id_seq', 163, true);
+SELECT pg_catalog.setval('public.users_user_id_seq', 3, true);
 
 
 --
